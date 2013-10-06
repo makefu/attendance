@@ -1,0 +1,9 @@
+[submodule "onbot"]
+	path = onbot
+	url = https://github.com/krebscode/pyfibot.git
+[submodule "server"]
+	path = server
+	url = https://github.com/shackspace/user_suppository.git
+[submodule "minikrebs"]
+	path = minikrebs
+	url = https://github.com/krebscode/minikrebs
